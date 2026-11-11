@@ -1,0 +1,14 @@
+
+Nov 11 10:15:20 server sshd: Accepted password for anu from 192.0.2.10 port 5022 ssh2
+Nov 11 10:16:20 server sshd: Failed password for root from 192.0.2.15 port 5033 ssh2
+Nov 11 10:16:30 server sshd: Failed password for root from 192.0.2.15 port 5034 ssh2
+Nov 11 10:16:40 server sshd: Failed password for root from 192.0.2.15 port 5035 ssh2
+Nov 11 11:01:00 server sshd: Failed password for root from 192.0.2.50 port 5070 ssh2
+Nov 11 11:01:10 server sshd: Failed password for root from 192.0.2.50 port 5071 ssh2
+Nov 11 11:01:20 server sshd: Failed password for root from 192.0.2.50 port 5072 ssh2
+Nov 11 10:17:20 server sshd: Accepted password for anu from 192.0.2.10 port 5040 ssh2
+Nov 11 10:18:20 server sshd: Failed password for admin from 192.0.2.20 port 5050 ssh2
+Nov 11 10:18:30 server sshd: Failed password for admin from 192.0.2.20 port 5051 ssh2
+Nov 11 10:18:40 server sshd: Failed password for admin from 192.0.2.20 port 5052 ssh2
+Nov 11 10:19:00 server sshd: Failed password for root from 192.0.2.15 port 5055 ssh2
+Nov 11 11:00:00 server sshd: Accepted password for anu from 192.0.2.30 port 5060 ssh2
